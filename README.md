@@ -2,8 +2,14 @@
 <h1 align="center">Hi 👋, I'm Sheikh Mahmudul Hasan Shium</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 <img align='right' alt='logo' width='300' src='https://media.tenor.com/4D3DhzVOu-oAAAAC/press-any-key-any-key.gif'>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikhmahmudulhasanshium&label=Profile%20views&color=0e75b6&style=flat" alt="sheikhmahmudulhasanshium" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikhmahmudulhasanshium&label=Profile%20views&color=0e75b6&style=flat" alt="sheikhmahmudulhasanshium" /> </p>
+<h3 align='left'>Education</h3>
+<ul>
+	<li><b>2016</b>&nbsp; Secondary School Certificate </n><b>Institution </b>Ashuganj Tap Bidyut Kendra High School</li>
+  	<li><b>2018</b>&nbsp; Higher Secondary Certificate </n><b>Institution </b>Abdul Kadir Mollah City College</li>
+  	<li><b>2023</b>&nbsp; Bachelor in Science </n><b>Institution </b>American International University - Bangladesh</li>
+</ul>
 - 🔭 I’m currently working on [Tick-tack](https://github.com/sheikhmahmudulhasanshium/Tick-tack-toe)
 
 - 👨‍💻 All of my projects are available at [https://github.com/sheikhmahmudulhasanshium](https://github.com/sheikhmahmudulhasanshium)
@@ -25,3 +31,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheikhmahmudulhasanshium&show_icons=true&locale=en" alt="sheikhmahmudulhasanshium" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sheikhmahmudulhasanshium&" alt="sheikhmahmudulhasanshium" /></p>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sheikhmahmudulhasanshium&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+### 📈 My GitHub Contributions
+![Snake animation](https://github.com/sheikhmahmudulhasanshium/sheikhmahmudulhasanshium/blob/output/github-contribution-grid-snake.svg)
