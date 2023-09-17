@@ -6,9 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikhmahmudulhasanshium&label=Profile%20views&color=0e75b6&style=flat" alt="sheikhmahmudulhasanshium" /> </p>
 <h3 align='left'>Education</h3>
 <ul>
-	<li><b>2016</b>&nbsp; Secondary School Certificate </n><b>Institution </b>Ashuganj Tap Bidyut Kendra High School</li>
-  	<li><b>2018</b>&nbsp; Higher Secondary Certificate </n><b>Institution </b>Abdul Kadir Mollah City College</li>
-  	<li><b>2023</b>&nbsp; Bachelor in Science </n><b>Institution </b>American International University - Bangladesh</li>
+	<li><b>2016</b>&nbsp; Secondary School Certificate</li>
 </ul>
 - 🔭 I’m currently working on [Tick-tack](https://github.com/sheikhmahmudulhasanshium/Tick-tack-toe)
 
