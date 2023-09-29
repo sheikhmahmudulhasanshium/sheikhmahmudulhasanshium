@@ -9,10 +9,8 @@
 	<li><b>2016</b>&nbsp; Secondary School Certificate</li>
 	<li><b>2018</b>&nbsp; Higher Secondary Certificate</li>
 	<li><b>2023</b>&nbsp; Bachelor of Science</li>
-
-
 </ul>
-- 🔭 I’m currently working on [Tick-tack](https://github.com/sheikhmahmudulhasanshium/Tick-tack-toe)
+- 🔭 I’m currently working on [Product Management System]([https://github.com/sheikhmahmudulhasanshium/Tick-tack-toe](https://vercel.com/sheikhmahmudulhasanshium/product-management-system))
 
 - 👨‍💻 All of my projects are available at [https://github.com/sheikhmahmudulhasanshium](https://github.com/sheikhmahmudulhasanshium)
 
@@ -34,8 +32,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sheikhmahmudulhasanshium&" alt="sheikhmahmudulhasanshium" /></p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sheikhmahmudulhasanshium&limit=5&theme=flat&combine_all_yearly_contributions=true)
-
-### 📈 My GitHub Contributions
-![snake gif](https://github.com/sheikhmahmudulhasanshium/sheikhmahmudulhasanshium/blob/output/github-contribution-grid-snake.gif)
