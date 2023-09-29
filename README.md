@@ -7,6 +7,10 @@
 <h3 align='left'>Education</h3>
 <ul>
 	<li><b>2016</b>&nbsp; Secondary School Certificate</li>
+	<li><b>2018</b>&nbsp; Higher Secondary Certificate</li>
+	<li><b>2023</b>&nbsp; Bachelor of Science</li>
+
+
 </ul>
 - 🔭 I’m currently working on [Tick-tack](https://github.com/sheikhmahmudulhasanshium/Tick-tack-toe)
 
