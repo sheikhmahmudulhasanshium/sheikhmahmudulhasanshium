@@ -10,7 +10,7 @@
 	<li><b>2018</b>&nbsp; Higher Secondary Certificate</li>
 	<li><b>2023</b>&nbsp; Bachelor of Science</li>
 </ul>
-- 🔭 I’m currently working on [Product Management System]([https://github.com/sheikhmahmudulhasanshium/Tick-tack-toe](https://vercel.com/sheikhmahmudulhasanshium/product-management-system))
+- 🔭 I’m currently working on [Product Management System](https://vercel.com/sheikhmahmudulhasanshium/product-management-system))
 
 - 👨‍💻 All of my projects are available at [https://github.com/sheikhmahmudulhasanshium](https://github.com/sheikhmahmudulhasanshium)
 
