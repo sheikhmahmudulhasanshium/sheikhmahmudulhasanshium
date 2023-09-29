@@ -35,8 +35,4 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sheikhmahmudulhasanshium&limit=5&theme=flat&combine_all_yearly_contributions=true)
 ### 📈 My GitHub Contributions
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+![Snake animation](https://github.com/sheikhmahmudulhasanshium/sheikhmahmudulhasanshium/blob/output/github-contribution-grid-snake.svg)
