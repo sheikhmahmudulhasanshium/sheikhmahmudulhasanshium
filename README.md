@@ -7,7 +7,7 @@
 
 <h3 align='left'>About</h3>
 
-- 🔭 I’m currently working on Full-stack E-commerce [Admin Site](https://github.com/sheikhmahmudulhasanshium/E-commerce-full-stack-admin) [User Site](https://github.com/sheikhmahmudulhasanshium/E-commerce-full-stack-store)
+- 🔭 I’m currently working on [Product Management System](https://vercel.com/sheikhmahmudulhasanshium/product-management-system) [Discord Clone App](https://vercel.com/sheikhmahmudulhasanshium/discord-clone-app)
 
 - 👨‍💻 All of my projects are available at [https://github.com/sheikhmahmudulhasanshium](https://github.com/sheikhmahmudulhasanshium)
 
@@ -68,7 +68,7 @@
 
 ### 📈 My GitHub Contributions
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sheikhmahmudulhasanshium/sheikhmahmudulhasanshium/blob/output/github-contribution-grid-snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sheikhmahmudulhasanshium/sheikhmahmudulhasanshium/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/sheikhmahmudulhasanshium/sheikhmahmudulhasanshium/blob/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sheikhmahmudulhasanshium/sheikhmahmudulhasanshium.github.io/blob/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sheikhmahmudulhasanshium/sheikhmahmudulhasanshium.github.io/blob/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://github.com/sheikhmahmudulhasanshium/sheikhmahmudulhasanshium.github.io/blob/output/github-contribution-grid-snake.svg" style="width: 100%;">
 </picture>
