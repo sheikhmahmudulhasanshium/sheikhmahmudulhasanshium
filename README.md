@@ -1,4 +1,4 @@
-![logo](https://github.com/sheikhmahmudulhasanshium/sheikhmahmudulhasanshium.github.io/blob/main/business-card.png)
+![logo](https://github.com/sheikhmahmudulhasanshium/sheikhmahmudulhasanshium/blob/master/Black%20Modern%20Geometric%20Personal%20LinkedIn%20Banner%20(1).jpg)
 <h1 align="center">Hi 👋, I'm Sheikh Mahmudul Hasan Shium</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 <img align='right' alt='logo' width='300' src='https://media.tenor.com/4D3DhzVOu-oAAAAC/press-any-key-any-key.gif'>
