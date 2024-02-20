@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React.js**
 
-- 📫 How to reach me **sheikh.mahmudul.hasan.shium.aiub@gmail.com**
+- 📫 How to reach me **officials.shium@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,7 +27,6 @@
     <td><b>Institute</b></td>
     <td><b>Board</b></td>
     <td><b>Department</b></td>
-    <td><b>Result</b></td>
   </tr>
   <tr>
     <td><b>2023</b></td>
@@ -35,7 +34,7 @@
     <td>American International University - Bangladesh</td>
     <td>&nbsp;</td>
     <td>Computer Science & Engineering</td>
-    <td><b>3.86</b> out of 4.00</td>
+    
   </tr>
   <tr>
     <td><b>2018</b></td>
@@ -43,7 +42,7 @@
     <td>Abdul Kadir Mollah City College</td>
     <td>Dhaka</td>
     <td>Science</td>
-    <td><b>4.17</b> out of 5.00</td>
+    
   </tr>
   <tr>
     <td><b>2016</b></td>
@@ -51,7 +50,7 @@
     <td>Ashuganj Tap Bidyut Kendra High School</td>
     <td>Comilla</td>
     <td>Science</td>
-    <td><b>4.94</b> out of 5.00</td>
+   
   </tr>
 </table>
 <h3 align="left">Languages and Tools:</h3>
