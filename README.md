@@ -14,7 +14,7 @@
 - 💬 Ask me about **React.js**
 
 - 📫 How to reach me **officials.shium@gmail.com**
-<a href="https://github.com/sheikhmahmudulhasanshium/sheikhmahmudulhasanshium/blob/master/Resume_of_Shium.pdf" download="https://github.com/sheikhmahmudulhasanshium/sheikhmahmudulhasanshium/blob/master/Resume_of_Shium.pdf"><p align="center">Download Resume</p></a>
+<a href="https://github.com/sheikhmahmudulhasanshium/sheikhmahmudulhasanshium/blob/master/Resume_of_Shium.pdf" ><button align="center" download="/Resume_of_Shium.pdf">Download Resume</button></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sheikh-mahmudul-hasan-shium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-profile-link" height="30" width="40" /></a>
