@@ -16,7 +16,7 @@
 - 📫 How to reach me **officials.shium@gmail.com**
 
 <a href="https://github.com/sheikhmahmudulhasanshium/sheikhmahmudulhasanshium/blob/master/Resume_of_Shium.pdf" >
-  <h3 align="center" download="https://github.com/sheikhmahmudulhasanshium/sheikhmahmudulhasanshium/blob/master/Resume_of_Shium.pdf" href="https://github.com/sheikhmahmudulhasanshium/sheikhmahmudulhasanshium/blob/master/Resume_of_Shium.pdf">Watch Resume</h3>
+  Watch Resume
 </a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
