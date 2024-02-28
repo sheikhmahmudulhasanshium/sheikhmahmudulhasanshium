@@ -15,9 +15,9 @@
 
 - 📫 How to reach me **officials.shium@gmail.com**
 
-<a href="https://github.com/sheikhmahmudulhasanshium/sheikhmahmudulhasanshium/blob/master/Resume_of_Shium.pdf" >
+<link href="https://github.com/sheikhmahmudulhasanshium/sheikhmahmudulhasanshium/blob/master/Resume_of_Shium.pdf" >
   <h3 align="center">Watch Resume</h3>
-</a>
+</link>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sheikh-mahmudul-hasan-shium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-profile-link" height="30" width="40" /></a>
