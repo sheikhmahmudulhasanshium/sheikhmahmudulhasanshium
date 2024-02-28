@@ -1,6 +1,6 @@
 ![logo](https://github.com/sheikhmahmudulhasanshium/sheikhmahmudulhasanshium/blob/master/Black%20Modern%20Geometric%20Personal%20LinkedIn%20Banner%20(1).jpg)
 <h1 align="center">Hi 👋, I'm Sheikh Mahmudul Hasan Shium</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh.</h3>
+<h3 align="center">A passionate Software Engineer from Bangladesh.</h3>
 <img align='right' alt='logo' width='300' src='https://media.tenor.com/4D3DhzVOu-oAAAAC/press-any-key-any-key.gif'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikhmahmudulhasanshium&label=Profile%20views&color=0e75b6&style=flat" alt="view-counter" /> </p>
@@ -14,7 +14,7 @@
 - 💬 Ask me about **React.js**
 
 - 📫 How to reach me **officials.shium@gmail.com**
-
+<a href="https://github.com/sheikhmahmudulhasanshium/sheikhmahmudulhasanshium/blob/master/Resume_of_Shium.pdf" download="Resume_of_Shium">Download Resume</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sheikh-mahmudul-hasan-shium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-profile-link" height="30" width="40" /></a>
