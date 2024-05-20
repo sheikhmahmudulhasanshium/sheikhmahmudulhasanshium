@@ -7,7 +7,7 @@
 
 <h3 align='left'>About</h3>
 
-- 🔭 I’m currently working on [Daily Metro](https://www.dailymetro.net/) [Discord Clone App](https://vercel.com/sheikhmahmudulhasanshium/discord-clone-app)
+- 🔭 I’m currently working on [Daily Metro](https://www.dailymetro.net/) [Discord Clone App](https://vercel.com/sheikhmahmudulhasanshium/discord-clone-app) [Movie Marathon](https://github.com/sheikhmahmudulhasanshium/movie-marathon)
 
 - 👨‍💻 All of my projects are available at [https://github.com/sheikhmahmudulhasanshium](https://github.com/sheikhmahmudulhasanshium)
 
