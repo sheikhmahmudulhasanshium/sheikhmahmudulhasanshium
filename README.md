@@ -7,7 +7,7 @@
 
 <h3 align='left'>About</h3>
 
-- 🔭 I’m currently working on [Movie Marathon 2](https://github.com/sheikhmahmudulhasanshium/movie-marathon-2)
+- 🔭 I’m currently working on [Movie Marathon 3](https://github.com/sheikhmahmudulhasanshium/movie-marathon-3)
 
 - 👨‍💻 All of my projects are available at [https://github.com/sheikhmahmudulhasanshium](https://github.com/sheikhmahmudulhasanshium)
 
