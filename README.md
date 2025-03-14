@@ -6,9 +6,22 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikhmahmudulhasanshium&label=Profile%20views&color=0e75b6&style=flat" alt="view-counter" /> </p>
 
 <h3 align='left'>About</h3>
+🚀 **Software Engineer at Research & Analysis Institute, Bangladesh** with a strong foundation in full-stack web development. I build scalable, performant, and modern web applications using cutting-edge technologies.
 
-- 🔭 I’m currently working on [Movie Marathon 3](https://github.com/sheikhmahmudulhasanshium/movie-marathon-3)
+### 💼 **Expertise**
 
+**🌐 Full Stack Web Development:**  
+- **Frontend:** Next.js, Tailwind CSS, ShadCN UI  
+- **Backend:** NestJS (REST APIs), Swagger UI  
+- **Databases:** PostgreSQL, MongoDB  
+- **State Management:** Redux, Zustand, Zod  
+- **Deployment:** Vercel (Frontend), Railway (Backend)  
+- **Architecture:** Experienced with microservices and clean code practices
+
+### 🔍 **Current Focus**  
+- Exploring **Artificial Intelligence (AI)** and **Machine Learning (ML)** to build smarter, data-driven solutions.
+
+I'm passionate about solving real-world problems through technology and continuously evolving as a developer in the dynamic web and AI development landscape.
 - 👨‍💻 All of my projects are available at [https://github.com/sheikhmahmudulhasanshium](https://github.com/sheikhmahmudulhasanshium)
 
 - 💬 Ask me about **React.js**
