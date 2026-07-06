@@ -1,89 +1,74 @@
-![logo](https://github.com/sheikhmahmudulhasanshium/sheikhmahmudulhasanshium/blob/master/Black%20Modern%20Geometric%20Personal%20LinkedIn%20Banner%20(1).jpg)
-<h1 align="center">Hi 👋, I'm Sheikh Mahmudul Hasan Shium</h1>
-<h3 align="center">A passionate Software Engineer from Bangladesh.</h3>
-<img align='right' alt='logo' width='300' src='https://media.tenor.com/4D3DhzVOu-oAAAAC/press-any-key-any-key.gif'>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sheikhmahmudulhasanshium/sheikhmahmudulhasanshium/refs/heads/master/Black%20Modern%20Geometric%20Personal%20LinkedIn%20Banner%20(1).jpg" width="100%" alt="Banner" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikhmahmudulhasanshium&label=Profile%20views&color=0e75b6&style=flat" alt="view-counter" /> </p>
+  <h1>Hi 👋, I'm Sheikh Mahmudul Hasan Shium</h1>
+  <p><strong>Software Engineer | Full-Stack Developer | AI Enthusiast</strong></p>
 
-<h3 align='left'>About</h3>
-🚀 **Software Engineer at Research & Analysis Institute, Bangladesh** with a strong foundation in full-stack web development. I build scalable, performant, and modern web applications using cutting-edge technologies.
+  <p>
+    <a href="https://linkedin.com/in/sheikh-mahmudul-hasan-shium"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:officials.shium@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/sheikhmahmudulhasanshium/sheikhmahmudulhasanshium/blob/master/Resume%20of%20Shium.pdf"><img src="https://img.shields.io/badge/View_Resume-000000?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" /></a>
+  </p>
 
-### 💼 **Expertise**
+  <img src="https://komarev.com/ghpvc/?username=sheikhmahmudulhasanshium&label=Profile%20Views&color=0e75b6&style=flat-square" alt="views" />
+</div>
 
-**🌐 Full Stack Web Development:**  
-- **Frontend:** Next.js, Tailwind CSS, ShadCN UI  
-- **Backend:** NestJS (REST APIs), Swagger UI  
-- **Databases:** PostgreSQL, MongoDB  
-- **State Management:** Redux, Zustand, Zod  
-- **Deployment:** Vercel (Frontend), Railway (Backend)  
-- **Architecture:** Experienced with microservices and clean code practices
+---
 
-### 🔍 **Current Focus**  
-- Exploring **Artificial Intelligence (AI)** and **Machine Learning (ML)** to build smarter, data-driven solutions.
+### 👨‍💻 About Me
+I am a **Software Engineer at the Research & Analysis Institute, Bangladesh**. I specialize in building scalable, high-performance web applications with a focus on clean architecture and modern user experiences. Currently, I am expanding my horizons into **Artificial Intelligence and Machine Learning** to create data-driven solutions.
 
-I'm passionate about solving real-world problems through technology and continuously evolving as a developer in the dynamic web and AI development landscape.
-- 👨‍💻 All of my projects are available at [https://github.com/sheikhmahmudulhasanshium](https://github.com/sheikhmahmudulhasanshium)
+- 🔭 I’m currently working on **Microservices & Scalable Systems**
+- 💬 Ask me about **Next.js, NestJS, and State Management**
+- ⚡ Fun fact: I believe "Clean code always looks like it was written by someone who cares."
 
-- 💬 Ask me about **React.js**
+---
 
-- 📫 How to reach me **officials.shium@gmail.com**
+### 🛠️ Technical Stack
 
-<a href="https://github.com/sheikhmahmudulhasanshium/sheikhmahmudulhasanshium/blob/master/Resume of Shium.pdf" >
-  Watch Resume
-</a>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sheikh-mahmudul-hasan-shium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-profile-link" height="30" width="40" /></a>
-</p>
-<h3 align='left'>Education</h3>
-<table border='1'>
-  <tr>
-    <td><b>Passing Year</b></td>
-    <td><b>Certificate</b></td>
-    <td><b>Institute</b></td>
-    <td><b>Board</b></td>
-    <td><b>Department</b></td>
-  </tr>
-  <tr>
-    <td><b>2023</b></td>
-    <td>Bachelor of Science</td>
-    <td>American International University - Bangladesh</td>
-    <td>&nbsp;</td>
-    <td>Computer Science & Engineering</td>
-    
-  </tr>
-  <tr>
-    <td><b>2018</b></td>
-    <td>Higher Secondary School Certificate</td>
-    <td>Abdul Kadir Mollah City College</td>
-    <td>Dhaka</td>
-    <td>Science</td>
-    
-  </tr>
-  <tr>
-    <td><b>2016</b></td>
-    <td>Secondary School Certificate</td>
-    <td>Ashuganj Tap Bidyut Kendra High School</td>
-    <td>Comilla</td>
-    <td>Science</td>
-   
-  </tr>
-</table>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
+| **Backend** | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) |
+| **DevOps/Tools** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sheikhmahmudulhasanshium&show_icons=true&locale=en&layout=compact" alt="top-lang" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheikhmahmudulhasanshium&show_icons=true&locale=en" alt="github-stat" /></p>
+### 🎓 Education
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sheikhmahmudulhasanshium&" alt="current-streak" /></p>
+*   **Bachelor of Science in CSE** | American International University - Bangladesh (2023)
+*   **HSC (Science)** | Abdul Kadir Mollah City College (2018)
+*   **SSC (Science)** | Ashuganj Tap Bidyut Kendra High School (2016)
 
-### 🔝 Top Contributed Repository
-<p><img align="center" src="https://github-contributor-stats.vercel.app/api?username=sheikhmahmudulhasanshium&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="contributed-repo"/></p>
+---
 
-### 📈 My GitHub Contributions
+### 📊 GitHub Statistics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=sheikhmahmudulhasanshium&show_icons=true&theme=transparent&hide_border=true" alt="Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sheikhmahmudulhasanshium&layout=compact&theme=transparent&hide_border=true" alt="Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheikhmahmudulhasanshium&theme=transparent&hide_border=true" alt="Streak" />
+</div>
+
+---
+
+### 🐍 Contribution Activity
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sheikhmahmudulhasanshium/sheikhmahmudulhasanshium.github.io/blob/output/github-contribution-grid-snake.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/sheikhmahmudulhasanshium/sheikhmahmudulhasanshium.github.io/blob/output/github-contribution-grid-snake.svg">
   <img alt="GitHub contribution grid snake animation" src="https://github.com/sheikhmahmudulhasanshium/sheikhmahmudulhasanshium.github.io/blob/output/github-contribution-grid-snake.svg" style="width: 100%;">
 </picture>
+
+<div align="center">
+  <p><i>Design & Built by Sheikh Mahmudul Hasan Shium</i></p>
+</div>
