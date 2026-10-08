@@ -5,7 +5,7 @@
 </p>
 
 # Sheikh Mahmudul Hasan Shium
-**Software Engineer at Gold Bell Corporation**
+**Assistant Frontend Developer at Onnorokom Projukti Limited**
 
 <p align="left">
 <a href="https://linkedin.com/in/sheikh-mahmudul-hasan-shium" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
