@@ -45,5 +45,5 @@
 </picture>
 
 <div align="center">
-  <p><i>Software Engineer | Gold Bell Corporation</i></p>
+  <p><i>Assistant Frontend Developer| OPL</i></p>
 </div>
